@@ -369,7 +369,6 @@ U' y M D M' U2 M D M' U y'
 
 最近，日本の大会でのBLDのレベルが急上昇しているように感じている．個々人が知恵を絞り，未開のまま横たわっている多くの3-cycle手順を作り出していくことを期待している．本記事がそのための刺激となれば，筆者の望外の喜びとするところである．
 <div style="text-align: right;">2014/12/20　[WRCC](http://wrcc.main.jp) blindfolded chief adviser </div>
-<div style="text-align: right;">[天国超越のミサワ (TwitterID : ccccccccandy)](https://twitter.com/ccccccccandy) </div>
 <div style="text-align: right;">[A. Misawa](https://www.worldcubeassociation.org/results/p.php?i=2010MISA01) </div>
 
 ## &dagger;オマケ (M列以外だけどよく使うエッジコミュテータたち)&dagger;<a id="sec7"></a>
